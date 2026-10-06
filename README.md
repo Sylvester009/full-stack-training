@@ -15,7 +15,7 @@ This repo is where I experiment, break things, fix them, and hopefully get bette
 
 | Project      | What I’m Learning |
 | ------------ | ----------------- |
-| `01-project` | Coming soon       |
+| `01-project` | (https://roadmap.sh/projects/single-page-cv)       |
 | `02-project` | Coming soon       |
 | `03-project` | Coming soon       |
 
